@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-playbook.json": "file:///Users/caynev/Projects/ansible-playbook-docker-001.fsn1/docker-001.fsn1.yml"
+    }
+}

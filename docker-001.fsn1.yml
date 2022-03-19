@@ -1,0 +1,11 @@
+---
+- name: a playbook can solely be a list of roles
+  hosts: docker-001.fsn1
+  gather_facts: true
+  become: true
+
+  roles:
+    - geerlingguy.security
+    - nakashiugs.vim
+    - nakashiugs.ohmyzsh
+    - nakashiugs.docker

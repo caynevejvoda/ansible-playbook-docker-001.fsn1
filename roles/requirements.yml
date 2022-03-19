@@ -1,0 +1,6 @@
+---
+roles:
+  - name: geerlingguy.security
+  - name: nakashiugs.vim
+  - name: nakashiugs.ohmyzsh
+  - name: nakashiugs.docker

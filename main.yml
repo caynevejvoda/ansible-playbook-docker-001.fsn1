@@ -1,1 +1,5 @@
 ---
+- hosts: all
+
+- name: Import playbook for host docker-001.fsn1
+  import_playbook: docker-001.fsn1
